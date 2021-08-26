@@ -15,6 +15,21 @@
           37.805879
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown Place",
+        "time": "2021-08-26T23:17:22Z",
+        "sym": "http://maps.me/placemarks/placemark-red.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27824,
+          37.805879
+        ]
+      }
     }
   ]
 }
