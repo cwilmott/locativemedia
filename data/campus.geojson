@@ -1,1 +1,650 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grassy knoll",
+        "desc": "good spot to sit",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26106,
+          37.871435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blackberries",
+        "desc": "free food",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26212,
+          37.872437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grassy knoll",
+        "desc": "good spot to sit",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26227,
+          37.872529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bench",
+        "desc": "good spot to sit",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26166,
+          37.872754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Redwood grove",
+        "desc": "good for a stroll",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26162,
+          37.872825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bench",
+        "desc": "good spot to sit",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26172,
+          37.873643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosemary",
+        "desc": "free food",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26209,
+          37.874209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pretty stairs",
+        "desc": "good for a stroll",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2619,
+          37.874139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Picnic Site",
+        "desc": "good spot to sit",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26132,
+          37.87403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasant trees",
+        "desc": "good for a stroll",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26061,
+          37.874189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moffitt Men's Restroom B1",
+        "desc": "A difficult to find restroom, potentially the closees to Berkeley Commons.",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26049,
+          37.872632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moffitt Bombsquash Court",
+        "desc": "This space is either a budget bomb shelter or a budget squash court.",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26057,
+          37.872496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lost Vaccination Card",
+        "desc": "This is so important! Digitize this!",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26008,
+          37.871575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wheeler Hall Secret Entrance",
+        "desc": "Easy to miss, especially since they put trash cans right outside the entrance. Intended for chair users.",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25959,
+          37.871585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Serene Resting Spot",
+        "desc": "Tree covered bench neighboring the East Asian Studies Library",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2604171,
+          37.87368415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Morrison Library",
+        "desc": "Lovely reading room on the ground level of Doe Library",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2597821,
+          37.87242174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Concrete alley",
+        "desc": "Concrete walkway outside East Asian Library with ferns and foliage.",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26028,
+          37.873714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Secret Wheeler hall entrance under stairs",
+        "desc": "behind the stairs yo",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25951,
+          37.871608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Teaching spot by the bell",
+        "desc": "by the campanile, playing music on the hour",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25795,
+          37.872522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bradbury building look alike foyer",
+        "desc": "Hearst Memorial Mining building",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25716,
+          37.874121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dope spiral hanging sculpture",
+        "desc": "Splines!",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25838,
+          37.873956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moffitt bomb squash court",
+        "desc": "play squash here",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26067,
+          37.872508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tree",
+        "desc": "Cozy sweet spot",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2623,
+          37.872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Botony",
+        "desc": "dinosaur bones",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26177,
+          37.871332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Forest",
+        "desc": "bench",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26046,
+          37.874149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tree",
+        "desc": "bench surrounded by forest trees",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26123,
+          37.872146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blackberry",
+        "desc": "blackberry bush next to strawberry creek",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26212,
+          37.872431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University House",
+        "desc": "office of chancellor",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26225,
+          37.8745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Secret wheeler hall entrance",
+        "desc": "Hidden under some stairs, it's very secret",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25951,
+          37.871544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nice clump of trees",
+        "desc": "A nice grove near the sather tower",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25803,
+          37.872531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hearst Memorial Mining Building Lobby",
+        "desc": "pretty architecture",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25716,
+          37.874204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Standing Waves",
+        "desc": "art installation",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25833,
+          37.873929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Secret entrance Wheeler",
+        "desc": "entrance to wheeler, quiet spot",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25938,
+          37.871573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pretty grove",
+        "desc": "clump of trees near Campanile",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25801,
+          37.872442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quiet study corner",
+        "desc": "quiet, shaded spot, good for study",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25819,
+          37.872686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mining Building",
+        "desc": "dept of mining and metallurgy",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25713,
+          37.87408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stones",
+        "desc": "curious rock arrangement",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25972,
+          37.874278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Echo location",
+        "desc": "A location designed by Berkeley physics professors to hear your echo",
+        "type": "secret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26231,
+          37.871955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawn - under willow",
+        "desc": "A beatiful study area under some willow trees",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26215,
+          37.872272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Forest with bench",
+        "desc": "A red oak forest with a lovely bench under the trees",
+        "type": "space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26182,
+          37.872588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "A cool and quiet circle",
+        "desc": "A coin pool akin to the Italian Trevi Fountain",
+        "type": "curiosity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26027,
+          37.873046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shaded bench",
+        "desc": "A shaded bench under a Brutalist Architecural structure",
+        "type": "nature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25998,
+          37.873567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McCone circle of benches",
+        "desc": "An array of benches around a green lawn",
+        "type": "study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26019,
+          37.874463
+        ]
+      }
+    }
+  ]
+}
