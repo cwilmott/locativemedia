@@ -6,7 +6,7 @@
       "properties": {
         "title": "Grassy knoll",
         "desc": "good spot to sit",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@
       "properties": {
         "title": "Blackberries",
         "desc": "free food",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
         "title": "Grassy knoll",
         "desc": "good spot to sit",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
         "title": "Bench",
         "desc": "good spot to sit",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "title": "Redwood grove",
         "desc": "good for a stroll",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
       "properties": {
         "title": "Bench",
         "desc": "good spot to sit",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
       "properties": {
         "title": "Rosemary",
         "desc": "free food",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
         "title": "Pretty stairs",
         "desc": "good for a stroll",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@
       "properties": {
         "title": "Picnic Site",
         "desc": "good spot to sit",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
       "properties": {
         "title": "Pleasant trees",
         "desc": "good for a stroll",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
       "properties": {
         "title": "Moffitt Men's Restroom B1",
         "desc": "A difficult to find restroom, potentially the closees to Berkeley Commons.",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
       "properties": {
         "title": "Moffitt Bombsquash Court",
         "desc": "This space is either a budget bomb shelter or a budget squash court.",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
       "properties": {
         "title": "Lost Vaccination Card",
         "desc": "This is so important! Digitize this!",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "properties": {
         "title": "Wheeler Hall Secret Entrance",
         "desc": "Easy to miss, especially since they put trash cans right outside the entrance. Intended for chair users.",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
       "properties": {
         "title": "Serene Resting Spot",
         "desc": "Tree covered bench neighboring the East Asian Studies Library",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
       "properties": {
         "title": "Morrison Library",
         "desc": "Lovely reading room on the ground level of Doe Library",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
       "properties": {
         "title": "Concrete alley",
         "desc": "Concrete walkway outside East Asian Library with ferns and foliage.",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
       "properties": {
         "title": "Secret Wheeler hall entrance under stairs",
         "desc": "behind the stairs yo",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@
       "properties": {
         "title": "Teaching spot by the bell",
         "desc": "by the campanile, playing music on the hour",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@
       "properties": {
         "title": "Bradbury building look alike foyer",
         "desc": "Hearst Memorial Mining building",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@
       "properties": {
         "title": "Dope spiral hanging sculpture",
         "desc": "Splines!",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
       "properties": {
         "title": "Moffitt bomb squash court",
         "desc": "play squash here",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +336,7 @@
       "properties": {
         "title": "Tree",
         "desc": "Cozy sweet spot",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@
       "properties": {
         "title": "Botony",
         "desc": "dinosaur bones",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -365,8 +365,8 @@
       "type": "Feature",
       "properties": {
         "title": "Forest",
-        "desc": "bench",
-        "type": "study"
+        "desc": "bench surrounded by forest trees",
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -380,8 +380,8 @@
       "type": "Feature",
       "properties": {
         "title": "Tree",
-        "desc": "bench surrounded by forest trees",
-        "type": "nature"
+        "desc": "tree next to moffit",
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +396,7 @@
       "properties": {
         "title": "Blackberry",
         "desc": "blackberry bush next to strawberry creek",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@
       "properties": {
         "title": "University House",
         "desc": "office of chancellor",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +426,7 @@
       "properties": {
         "title": "Secret wheeler hall entrance",
         "desc": "Hidden under some stairs, it's very secret",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +441,7 @@
       "properties": {
         "title": "Nice clump of trees",
         "desc": "A nice grove near the sather tower",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@
       "properties": {
         "title": "Hearst Memorial Mining Building Lobby",
         "desc": "pretty architecture",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@
       "properties": {
         "title": "Standing Waves",
         "desc": "art installation",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +486,7 @@
       "properties": {
         "title": "Secret entrance Wheeler",
         "desc": "entrance to wheeler, quiet spot",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@
       "properties": {
         "title": "Pretty grove",
         "desc": "clump of trees near Campanile",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +516,7 @@
       "properties": {
         "title": "Quiet study corner",
         "desc": "quiet, shaded spot, good for study",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
       "properties": {
         "title": "Mining Building",
         "desc": "dept of mining and metallurgy",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +546,7 @@
       "properties": {
         "title": "Stones",
         "desc": "curious rock arrangement",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@
       "properties": {
         "title": "Echo location",
         "desc": "A location designed by Berkeley physics professors to hear your echo",
-        "type": "secret"
+        "kind": "secret"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@
       "properties": {
         "title": "Lawn - under willow",
         "desc": "A beatiful study area under some willow trees",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +591,7 @@
       "properties": {
         "title": "Forest with bench",
         "desc": "A red oak forest with a lovely bench under the trees",
-        "type": "space"
+        "kind": "space"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +606,7 @@
       "properties": {
         "title": "A cool and quiet circle",
         "desc": "A coin pool akin to the Italian Trevi Fountain",
-        "type": "curiosity"
+        "kind": "curiosity"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@
       "properties": {
         "title": "Shaded bench",
         "desc": "A shaded bench under a Brutalist Architecural structure",
-        "type": "nature"
+        "kind": "nature"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +636,7 @@
       "properties": {
         "title": "McCone circle of benches",
         "desc": "An array of benches around a green lawn",
-        "type": "study"
+        "kind": "study"
       },
       "geometry": {
         "type": "Point",
