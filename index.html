@@ -29,7 +29,7 @@
 //variables (var) up the top
 var map = new mapboxgl.Map({
   container: 'map', // container id
-  style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
+  style: 'mapbox://styles/clancywilmott/cl8uo56x8000214r7jd92volq', // stylesheet location
   center: [-122.25, 37.87], // starting position
   zoom: 12 // starting zoom
 });
@@ -45,23 +45,23 @@ map.on('load', function() {
   geolocate.trigger();
   map.addSource('points', {
         type: 'geojson',
-        data: 'https://raw.githubusercontent.com/cwilmott/locativemedia/main/data/campus-icons.geojson'
+        data: 'https://raw.githubusercontent.com/cwilmott/locativemedia/main/data/campus.geojson'
       });
     map.addLayer({
   id: 'points-layer',
   type: 'symbol',
   source: 'points',
   layout: {
-    'icon-image': ['get', 'icon'], // more icons here: https://labs.mapbox.com/maki-icons/editor/
-    'icon-allow-overlap': true
+    'icon-image': 'park-15', // more icons here: https://labs.mapbox.com/maki-icons/editor/
+        'icon-allow-overlap': true
   },
   paint: { }
 });
 map.on('click', 'points-layer', (e) => {
 // setting up some constants below.
 const coordinates = e.features[0].geometry.coordinates.slice();
-const title = e.features[0].properties.title;
-const description = e.features[0].properties.desc;
+const title = e.features[0].properties.Name;
+const description = e.features[0].properties.Description;
 
 // Ensure that if the map is zoomed out such that multiple
 // copies of the feature are visible, the popup appears
